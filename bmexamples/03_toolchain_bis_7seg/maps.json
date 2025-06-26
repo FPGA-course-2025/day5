@@ -1,0 +1,7 @@
+{
+"Assoc" : {
+	"clk" : "clk",
+	"reset" : "btnC",
+	"o1": "[15:0] led"
+	}
+}
